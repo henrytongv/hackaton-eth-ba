@@ -1,2 +1,8 @@
-# hackaton-eth-ba
-Source code created for hackaton, for for project HPayRoll
+# Project HPayRoll
+Source code for Hackathon ETH Global Buenos Aires
+
+Components:
+
+- Web page that shows a list of possible investment options to an employee
+- 
+
